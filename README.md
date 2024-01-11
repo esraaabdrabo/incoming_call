@@ -2,8 +2,7 @@ A Flutter project demonstrating the integration of incoming call functionality u
 
 ## Overview
 
-This Flutter project illustrates how to handle and display incoming calls in a Flutter application using the `flutter_callkit_incoming` package. The package provides functionality similar to the native CallKit framework on iOS, allowing for a seamless and native-like experience for incoming calls.
-
+This Flutter project illustrates how to handle and display incoming calls in a Flutter application using the `flutter_callkit_incoming` package.
 ## Features
 
 - **Incoming Call Handling:** Utilizes the `flutter_callkit_incoming` package to handle incoming calls.
