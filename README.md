@@ -1,16 +1,15 @@
-# incoming_call
+A Flutter project demonstrating the integration of incoming call functionality using the `flutter_callkit_incoming` package.
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This Flutter project illustrates how to handle and display incoming calls in a Flutter application using the `flutter_callkit_incoming` package. The package provides functionality similar to the native CallKit framework on iOS, allowing for a seamless and native-like experience for incoming calls.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Incoming Call Handling:** Utilizes the `flutter_callkit_incoming` package to handle incoming calls.
+- **Native-like Experience:** Provides a native-like calling interface for incoming calls.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Video
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/esraaabdrabo/incoming_call/assets/91227030/b3604c0f-5175-492c-92fb-78fb43b0e28f
+
